@@ -1,2 +1,2 @@
-# -ControlView
+# ControlView
 a image  Control View
